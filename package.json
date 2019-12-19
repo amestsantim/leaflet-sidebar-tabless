@@ -1,7 +1,7 @@
 {
   "name": "leaflet-sidebar-tabless",
   "version": "1.0.0",
-  "description": "A fork of leaflet-sidebar-v2 without the tabs. Will become invisible and can be triggered to open via JS.",
+  "description": "A fork of leaflet-sidebar-v2 without the tabs. Will retract completely into the sides and can be triggered to open via JS.",
   "keywords": [
     "gis",
     "leaflet",
