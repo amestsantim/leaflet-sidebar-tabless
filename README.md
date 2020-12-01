@@ -1,14 +1,11 @@
 # leaflet-sidebar-tabless
 
-A responsive sidebar _just_ for [Leaflet](http://leafletjs.com/). A fork of [leaflet-sidebar-tabless](https://nickpeihl.github.io/leaflet-sidebar-v2) with the tabs removed from the sidebars so that the sidebar can completely disappear into the sides and can be triggered to open using code.
+A responsive sidebar _just_ for [Leaflet](http://leafletjs.com/). A fork of [leaflet-sidebar-v2](https://github.com/noerw/leaflet-sidebar-v2) with the tabs removed from the sidebars so that the sidebar can completely disappear into the sides and can be triggered to open using code.
 
 ![Demo](doc/leaflet-sidebar-tabless.gif)
 
 ## Why the Fork?
 - When collapsed, the sidebar stays on the map as a full-height, 40px wide strip showing the tab icons. If you want a tab that totally disappears when it is not 'open' then this is exactly that!
-
-## Examples
-in `examples` folder, available live at <https://nickpeihl.github.io/leaflet-sidebar-tabless/examples>
 
 ## Usage
 
