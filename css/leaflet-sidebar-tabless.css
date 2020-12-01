@@ -97,10 +97,14 @@
     left: 0;
     right: 0; }
   .leaflet-sidebar.collapsed > .leaflet-sidebar-content {
-    overflow-y: hidden; }
+    display: none;
+    overflow-y: hidden;
+  }
 
 .collapsed > .leaflet-sidebar-content {
-  overflow-y: hidden; }
+  display: none;
+  overflow-y: hidden;
+}
 
 .leaflet-sidebar-pane {
   display: none;
