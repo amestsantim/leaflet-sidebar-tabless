@@ -35,6 +35,7 @@ $content-padding-horizontal: 20px !default;
 
     &.collapsed {
         width: $tab-size;
+        display: none;
     }
 
     @media(min-width:$threshold-sm) {
